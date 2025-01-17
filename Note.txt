@@ -1,0 +1,5 @@
+
+1- github ten file inder
+2- colcon build
+3- source install/setup.bash 
+4- ros2 launch my_arac view_robot.launch.py 
